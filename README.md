@@ -10,7 +10,7 @@
 </div>
 
 <details align="center">
-   <summary><samp>Details</samp></summary>
+   <summary><samp>Epique Badges I've given myself</samp></summary>
    <p align="center">
     <br>
     <a href="https://github.com/74k1?tab=repositories" target="_blank"><img alt="NixOS" src="https://img.shields.io/badge/NixOS Enjoyer-3559a1?style=flat-square&logo=NixOS&logoColor=%23b3deff"></a>
@@ -24,7 +24,6 @@
     <a href="https://github.com/74k1?tab=repositories" target="_blank"><img alt="SASS" src="https://img.shields.io/badge/SASSy boye-CC6699?style=flat-square&logo=sass&logoColor=white"></a>
     <a href="https://github.com/74k1?tab=repositories" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python catcher-14354C?style=flat-square&logo=python&logoColor=white"></a>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=74k1&show_icons=true&hide_border=true&hide=issues&title_color=7253fe&icon_color=000000&text_color=555"></img><br>
     <a href="https://github.com/74k1" target="_blank"><img alt="74k1" src="https://badges.pufler.dev/visits/74k1/74k1?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <a href="https://github.com/74k1/74k1" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/74k1/74k1?label=profile%20updated&style=flat-square"></a>
   </samp></p>
