@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><samp>🖖 Hey, I'm <a href="https://taki.moe/" target="_blank">taki</a>.</samp></h1>
+  <h1><samp>🖖 Hey, I'm taki.</samp></h1>
   
   <samp>Welcome to my GitHub Profile.</samp>
   
