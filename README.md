@@ -5,15 +5,17 @@
 
 </div>
 
-<div>
-  <samp>> ls -l</samp>
-  <br>
-  <samp>lrwxr--r--  - 74k1  9 Jan 2020 <a href="https://taki.moe/">Website</a> -> https://taki.moe/</samp><br>
-  <samp>lrwxr--r--  - 74k1  9 Jan 2020 <a href="https://taki.moe/contact">Contact</a> -> https://taki.moe/contact</samp>
-</div>
-<br>
+<details>
+  <summary><samp>ls -lrU</samp></summary>
+  <p>
+    <br>
+    <samp>lrwxr--r--  - 74k1  9 Jan  2020 <a href="https://taki.moe/">Website</a> -> https://taki.moe/</samp><br>
+    <samp>lrwxr--r--  - 74k1 10 Jan  2020 <a href="https://taki.moe/contact">Contact</a> -> https://taki.moe/contact</samp><br>
+    <samp>.rw-r--r--  - 74k1  7 Jun 11:22 interests
+  </p>
+</details>
 <details align="left">
-   <summary><samp>Interests</samp></summary>
+   <summary><samp>cat interests</samp></summary>
    <p align="left">
     <br>
     <a href="https://github.com/74k1?tab=repositories" target="_blank"><img alt="NixOS" src="https://img.shields.io/badge/NixOS-3559a1?style=flat-square&logo=NixOS&logoColor=%23b3deff"></a>
