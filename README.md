@@ -28,7 +28,7 @@
   </samp></p>
 
   <samp>
-  If I happen to write in any other language, don't expect me to be an expert in it.<br>I'm no programmer. Just the regular IT guy.
+  If I happen to write in any other language, don't expect me to be an expert in it.<br>I'm no programmer. Just the regular IT guy.<br>Currently learning Rust for a secret Nix project I'm working on. Keep your eyes open.
   </samp>
   
 </details>
