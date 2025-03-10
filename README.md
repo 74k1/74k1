@@ -9,9 +9,9 @@
   <summary><samp>ls -lrU</samp></summary>
   <p>
     <br>
-    <samp>lrwxr--r--  - 74k1  9 Jan  2020 <a href="https://taki.moe/">Website</a> -> https://taki.moe/</samp><br>
-    <samp>lrwxr--r--  - 74k1 10 Jan  2020 <a href="https://taki.moe/contact">Contact</a> -> https://taki.moe/contact</samp><br>
-    <samp>.rw-r--r--  - 74k1  7 Jun 11:22 interests
+    <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/">Website</a> -> https://74k1.sh/</samp><br>
+    <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/contact">Contact</a> -> https://74k1.sh/contact</samp><br>
+    <samp>.rw-r--r--  - 74k1 7 Jun 2024 interests
   </p>
 </details>
 <details align="left">
