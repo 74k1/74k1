@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><samp>🖖 Hey, I'm taki.</samp></h1>
+  <h1><samp>🖖 Hey, I'm Tim.</samp></h1>
   <samp>Welcome to my GitHub Profile.</samp>
 
 </div>
