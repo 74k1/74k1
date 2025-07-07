@@ -1,10 +1,7 @@
 <div align="center">
-
   <h1><samp>🖖 Hey, I'm Tim.</samp></h1>
-  <samp>Welcome to my GitHub Profile.</samp>
-
 </div>
-
+<br>
 <div align="left">
   <picture>
     <img src="/metrics.plugin.languages.svg" alt="Language Metrics">
@@ -13,8 +10,12 @@
     <img src="/metrics.plugin.people.followers.svg" alt="Follower Metrics">
   </picture>
 </div>
+<br>
+<div align="center">
+  <samp>Welcome to my GitHub Profile.</samp>
+</div>
 
-<details>
+<details open>
   <summary><samp>ls -lrU</samp></summary>
   <p>
     <br>
@@ -24,7 +25,8 @@
     <samp>.rw-r--r--  - 74k1 7 Jul 2025 gh_about
   </p>
 </details>
-<details>
+<br>
+<details open>
   <summary><samp>rss_fetch https://74k1.sh/blog/rss.xml</samp></summary>
   <p>
     <br>
@@ -33,9 +35,19 @@
   </picture>
   </p>
 </details>
+<br>
 <details align="left">
   <summary><samp>cat gh_about</samp></summary>
-
+  <samp>
+  I'm a Junior System Engineer with a love for thoughtfully-crafted cli tools, striking graphics and NixOS.<br><br>
+  You'll often find me exploring new tools and tweaking configurations to make systems more useable.<br><br>
+  I'm fascinated by efficient system management, automation and the ways we can make computers work better for us.<br><br>
+  The intersection of usability and technical elegance is where I thrive.<br><br>
+  I'm currently pursuing my federal Cyber Security Specialist certification while gaining hands-on experience through system administration and my self-hosted servers.<br><br>
+  Take a look to see what I've been working on.<br><br>
+  If you have any questions or inquiries, feel free to reach out.
+  </samp>
+  <br>
   <div align="left">
     <img src="/88by31/01 powered-by-nixos.gif">
     <img src="/88by31/02 gnu-linux.gif">
@@ -92,20 +104,10 @@
     <img src="/88by31/43 ngmibutton.gif">
     <img src="/88by31/44 cc-by-nc-sa.gif">
   </div>
-
-  <samp>
-  I'm a Junior System Engineer with a love for thoughtfully-crafted cli tools, striking graphics and NixOS.<br>
-  You'll often find me exploring new tools and tweaking configurations to make systems more useable.<br>
-  I'm fascinated by efficient system management, automation and the ways we can make computers work better for us.<br>
-  The intersection of usability and technical elegance is where I thrive.<br>
-  I'm currently pursuing my federal Cyber Security Specialist certification while gaining hands-on experience through system administration and my self-hosted servers.<br>
-  Take a look to see what I've been working on.<br>
-  If you have any questions or inquiries, feel free to reach out.
-  </samp>
 </details>
-
+<br>
 <details>
-  <summary><h6>credits</h6></summary>
+  <summary><h6><samp>credits</samp></h6></summary>
   <p>
     <br>
     I mainly got the 88 by 31 gifs from <a href="https://88x31.nl/">88x31.nl</a> and <a href="https://cyber.dabamos.de/88x31/">cyber.dabamos.de</a>.<br>
