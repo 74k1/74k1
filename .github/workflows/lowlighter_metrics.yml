@@ -62,7 +62,7 @@ jobs:
           plugin_rss_limit: 4
       - name: Spotify - Random track from playlist
         uses: lowlighter/metrics@latest
-          with:
+        with:
             filename: metrics.plugin.music.playlist.spotify.svg
             token: NOT_NEEDED
             base: ""
