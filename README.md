@@ -3,6 +3,18 @@
   <h1><samp>🖖 Hey, I'm Tim.</samp></h1>
   <samp>Welcome to my GitHub Profile.</samp>
 
+  <picture>
+    <img src="/metrics.plugin.languages.svg" alt="Language Metrics">
+  </picture>
+
+  <picture>
+    <img src="/metrics.plugin.followers.svg" alt="Follower Metrics">
+  </picture>
+
+  <picture>
+    <img src="/metrics.plugin.music.playlist.spotify.svg" alt="Spotify Suggested">
+  </picture>
+
 </div>
 
 <details>
@@ -11,24 +23,82 @@
     <br>
     <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/">Website</a> -> https://74k1.sh/</samp><br>
     <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/contact">Contact</a> -> https://74k1.sh/contact</samp><br>
-    <samp>.rw-r--r--  - 74k1 7 Jun 2024 interests
+    <samp>.rw-r--r--  - 74k1 7 Jul 2025 gh_about
   </p>
 </details>
 <details align="left">
-   <summary><samp>cat interests</samp></summary>
-   <p align="left">
+  <summary><samp>cat gh_about</samp></summary>
+
+  <div align="left">
+    <img src="/88by31/01 powered-by-nixos.gif">
+    <img src="/88by31/02 gnu-linux.gif">
+    <img src="/88by31/03 neovim.png">
+    <img src="/88by31/04 vim.vialle.love.anim.gif">
     <br>
-    <a href="https://github.com/74k1?tab=repositories" target="_blank"><img alt="NixOS" src="https://img.shields.io/badge/NixOS-3559a1?style=flat-square&logo=NixOS&logoColor=%23b3deff"></a>
-    <a href="https://github.com/74k1?tab=repositories" target="_blank"><img alt="gnu-bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/74k1?tab=repositories" target="_blank"><img alt="awesomelists" src="https://img.shields.io/badge/Awesome-fc60a8?style=flat-square&logo=awesomelists&logoColor=white"></a>
-    <a href="https://github.com/74k1?tab=repositories" target="_blank"><img alt="neovim" src="https://img.shields.io/badge/Neovim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"></a>
-    <br><br>
-    <a href="https://github.com/74k1" target="_blank"><img alt="74k1" src="https://badges.pufler.dev/visits/74k1/74k1?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/74k1/74k1" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/74k1/74k1?label=profile%20updated&style=flat-square"></a>
-  </samp></p>
+    <img src="/88by31/05 madewithvi.gif">
+    <img src="/88by31/06 gnunano.gif">
+    <img src="/88by31/07 nano2.gif">
+    <img src="/88by31/08 madewithnotepad2.gif">
+    <br>
+    <img src="/88by31/09 gnubanner.gif">
+    <img src="/88by31/10 linux.gif">
+    <img src="/88by31/11 redhat.gif">
+    <img src="/88by31/12 168.gif">
+    <br>
+    <img src="/88by31/13 wired.gif">
+    <img src="/88by31/14 fuckai.gif">
+    <img src="/88by31/15 hhtt.gif">
+    <img src="/88by31/16 nekojiru2.gif">
+    <br>
+    <img src="/88by31/17 navidrome.gif">
+    <img src="/88by31/18 ltt.gif">
+    <img src="/88by31/19 ivecredit.gif">
+    <img src="/88by31/20 hair.gif">
+    <br>
+    <img src="/88by31/21 hackerpowered.gif">
+    <img src="/88by31/22 github.gif">
+    <img src="/88by31/23 bvbstar.gif">
+    <img src="/88by31/24 anythingbut.gif">
+    <br>
+    <img src="/88by31/25 hatems.gif">
+    <img src="/88by31/26 hatemac_b.gif">
+    <img src="/88by31/27 nowebp.gif">
+    <img src="/88by31/28 nofuckingthanks.gif">
+    <br>
+    <img src="/88by31/29 nft.gif">
+    <img src="/88by31/30 ohiosky.png">
+    <img src="/88by31/31 plasticlove.gif">
+    <img src="/88by31/32 pnfrlenm.gif">
+    <br>
+    <img src="/88by31/33 proweb.gif">
+    <img src="/88by31/34 smallthird.gif">
+    <img src="/88by31/35 4k1.gif">
+    <img src="/88by31/36 miku.png">
+    <br>
+    <img src="/88by31/37 yume nikki.gif">
+    <img src="/88by31/38 rss-button.gif">
+    <img src="/88by31/39 wii_button.gif">
+    <img src="/88by31/40 winamp.png">
+    <br>
+    <img src="/88by31/41 wow_wow.gif">
+    <img src="/88by31/42 y2kid.gif">
+    <img src="/88by31/43 ngmibutton.gif">
+    <img src="/88by31/44 cc-by-nc-sa.png">
+  </div>
 
   <samp>
-  If I happen to write in any other language, don't expect me to be an expert in it.<br>I'm no programmer. Just the regular IT guy.<br>Currently learning Rust for a secret Nix project I'm working on. Keep your eyes open.
+  I'm a Junior System Engineer with a love for thoughtfully-crafted cli tools, striking graphics and NixOS.<br>
+  You'll often find me exploring new tools and tweaking configurations to make systems more useable.<br>
+  I'm fascinated by efficient system management, automation and the ways we can make computers work better for us.<br>
+  The intersection of usability and technical elegance is where I thrive.<br>
+  I'm currently pursuing my federal Cyber Security Specialist certification while gaining hands-on experience through system administration and my self-hosted servers.<br>
+  Take a look to see what I've been working on.<br>
+  If you have any questions or inquiries, feel free to reach out.
   </samp>
-  
 </details>
+
+<div align="center">
+  <picture>
+    <img src="/metrics.plugin.music.playlist.spotify.svg" alt="Spotify Suggested">
+  </picture>
+</div>
