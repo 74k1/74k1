@@ -10,7 +10,7 @@
     <img src="/metrics.plugin.languages.svg" alt="Language Metrics">
   </picture>
   <picture>
-    <img src="/metrics.plugin.followers.svg" alt="Follower Metrics">
+    <img src="/metrics.plugin.people.followers.svg" alt="Follower Metrics">
   </picture>
 </div>
 
