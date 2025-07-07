@@ -45,7 +45,7 @@
   The intersection of usability and technical elegance is where I thrive.<br><br>
   I'm currently pursuing my federal Cyber Security Specialist certification while gaining hands-on experience through system administration and my self-hosted servers.<br><br>
   Take a look to see what I've been working on.<br><br>
-  If you have any questions or inquiries, feel free to reach out.
+  If you have any questions or inquiries, feel free to reach out.<br><br>
   </samp>
   <br>
   <div align="left">
@@ -107,7 +107,7 @@
 </details>
 <br>
 <details>
-  <summary><h6><samp>credits</samp></h6></summary>
+  <summary><samp>credits</samp></summary>
   <p>
     <br>
     I mainly got the 88 by 31 gifs from <a href="https://88x31.nl/">88x31.nl</a> and <a href="https://cyber.dabamos.de/88x31/">cyber.dabamos.de</a>.<br>
