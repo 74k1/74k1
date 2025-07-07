@@ -3,18 +3,15 @@
   <h1><samp>🖖 Hey, I'm Tim.</samp></h1>
   <samp>Welcome to my GitHub Profile.</samp>
 
+</div>
+
+<div align="left">
   <picture>
     <img src="/metrics.plugin.languages.svg" alt="Language Metrics">
   </picture>
-
   <picture>
     <img src="/metrics.plugin.followers.svg" alt="Follower Metrics">
   </picture>
-
-  <picture>
-    <img src="/metrics.plugin.music.playlist.spotify.svg" alt="Spotify Suggested">
-  </picture>
-
 </div>
 
 <details>
@@ -23,7 +20,17 @@
     <br>
     <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/">Website</a> -> https://74k1.sh/</samp><br>
     <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/contact">Contact</a> -> https://74k1.sh/contact</samp><br>
+    <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/blog">Blog</a> -> https://74k1.sh/blog</samp><br>
     <samp>.rw-r--r--  - 74k1 7 Jul 2025 gh_about
+  </p>
+</details>
+<details>
+  <summary><samp>rss_fetch https://74k1.sh/blog/rss.xml</samp></summary>
+  <p>
+    <br>
+  <picture>
+    <img src="/metrics.plugin.rss.svg" alt="RSS Feed">
+  </picture>
   </p>
 </details>
 <details align="left">
@@ -78,12 +85,12 @@
     <img src="/88by31/37 yume nikki.gif">
     <img src="/88by31/38 rss-button.gif">
     <img src="/88by31/39 wii_button.gif">
-    <img src="/88by31/40 winamp.png">
+    <img src="/88by31/40 winamp.gif">
     <br>
     <img src="/88by31/41 wow_wow.gif">
     <img src="/88by31/42 y2kid.gif">
     <img src="/88by31/43 ngmibutton.gif">
-    <img src="/88by31/44 cc-by-nc-sa.png">
+    <img src="/88by31/44 cc-by-nc-sa.gif">
   </div>
 
   <samp>
@@ -97,18 +104,12 @@
   </samp>
 </details>
 
-<div align="center">
-  <picture>
-    <img src="/metrics.plugin.music.playlist.spotify.svg" alt="Spotify Suggested">
-  </picture>
-</div>
-
 <details>
   <summary><h6>credits</h6></summary>
   <p>
     <br>
-    I mainly got the 88 by 31 gifs from [88x31.nl](https://88x31.nl/) and [cyber.dabamos.de](https://cyber.dabamos.de/88x31/).<br>
-    The NixOS one, I got from [mewoocat/NixOS](https://github.com/mewoocat/NixOS). Many thanks. :)<br>
-    I achieved the Metrics through the help of [lowlighter/metrics](https://github.com/lowlighter/metrics).
+    I mainly got the 88 by 31 gifs from <a href="https://88x31.nl/">88x31.nl</a> and <a href="https://cyber.dabamos.de/88x31/">cyber.dabamos.de</a>.<br>
+    The NixOS one, I got from <a href="https://github.com/mewoocat/NixOS">mewoocat/NixOS</a>. Many thanks. :)<br>
+    I achieved the Metrics through the help of <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.
   </p>
 </details>
