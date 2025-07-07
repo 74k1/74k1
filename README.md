@@ -102,3 +102,13 @@
     <img src="/metrics.plugin.music.playlist.spotify.svg" alt="Spotify Suggested">
   </picture>
 </div>
+
+<details>
+  <summary><h6>credits</h6></summary>
+  <p>
+    <br>
+    I mainly got the 88 by 31 gifs from [88x31.nl](https://88x31.nl/) and [cyber.dabamos.de](https://cyber.dabamos.de/88x31/).<br>
+    The NixOS one, I got from [mewoocat/NixOS](https://github.com/mewoocat/NixOS). Many thanks. :)<br>
+    I achieved the Metrics through the help of [lowlighter/metrics](https://github.com/lowlighter/metrics).
+  </p>
+</details>
