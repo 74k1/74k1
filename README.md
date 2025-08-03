@@ -4,7 +4,19 @@
 <br>
 <div align="center">
   <samp>Welcome to my GitHub Profile.</samp>
+  <br>
+  <samp>You're one of <img src="https://komarev.com/ghpvc/?username=74k1&color=dc143c&style=flat-square&label=views&abbreviated=true" /> People!</samp>
 </div>
+
+<h2>> interests</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</div>
+
+## > more details
 
 <details open>
   <summary><samp>ls -lrU</samp></summary>
@@ -13,7 +25,7 @@
     <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/">Website</a> -> https://74k1.sh/</samp><br>
     <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/contact">Contact</a> -> https://74k1.sh/contact</samp><br>
     <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/blog">Blog</a> -> https://74k1.sh/blog</samp><br>
-    <samp>.rw-r--r--  - 74k1 7 Jul 2025 gh_about
+    <samp>.rw-r--r--  - 74k1 3 Aug 2025 gh_about
   </p>
 </details>
 <br>
