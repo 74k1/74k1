@@ -5,10 +5,10 @@
 <div align="center">
   <samp>Welcome to my GitHub Profile.</samp>
   <br>
-  <samp>You're one of <img src="https://komarev.com/ghpvc/?username=74k1&color=dc143c&style=flat-square&label=views&abbreviated=true" /> People!</samp>
+  <samp>You're one of <img src="https://komarev.com/ghpvc/?username=74k1&color=816BFF&style=flat-square&label=views&abbreviated=true" /> People!</samp>
 </div>
 
-<h2>> interests</h2>
+<h2><samp>> interests</samp></h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
@@ -16,7 +16,15 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
 
-## > more details
+<h2><samp>> work</samp></h2>
+
+<ul>
+  <li><samp><a href="https://github.com/74k1/tix">tix 🔒</a> - my nix configurations for all of my machines (private)</samp></li>
+  <li><samp><a href="https://github.com/74k1/tixpkgs">tixpkgs</a> - a set of packages & modules that aren't in nixpkgs that I use</samp></li>
+  <li><samp>YuèYè 月夜 - My very own Colorscheme</samp></li>
+</ul>
+
+<h2><samp>> more details</samp></h2>
 
 <details open>
   <summary><samp>ls -lrU</samp></summary>
@@ -31,6 +39,7 @@
 <br>
 <details align="left">
   <summary><samp>cat gh_about</samp></summary>
+  <br>
   <samp>
   I'm a Junior System Engineer with a love for thoughtfully-crafted cli tools, striking graphics and NixOS.<br><br>
   You'll often find me exploring new tools and tweaking configurations to make systems more useable.<br><br>
