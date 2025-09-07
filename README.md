@@ -19,7 +19,7 @@
 <h2><samp>> work</samp></h2>
 
 <ul>
-  <li><samp><a href="https://github.com/74k1/tix">tix</a> 🔒 - my nix configurations for all of my machines (private)</samp></li>
+  <li><samp><a href="https://github.com/74k1/tix">tix</a> -  my nix configurations for all of my machines</samp></li>
   <li><samp><a href="https://github.com/74k1/tixpkgs">tixpkgs</a> - a set of packages & modules that aren't in nixpkgs that I use</samp></li>
   <li><samp><a href="https://github.com/74k1/yueye">YuèYè 月夜</a> - My very own Colorscheme</samp></li>
 </ul>
