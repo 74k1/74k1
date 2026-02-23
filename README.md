@@ -30,10 +30,10 @@
   <summary><samp>ls -lrU</samp></summary>
   <p>
     <br>
-    <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/">Website</a> -> https://74k1.sh/</samp><br>
-    <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/contact">Contact</a> -> https://74k1.sh/contact</samp><br>
-    <samp>lrwxr--r--  - 74k1 1 Jan 2025 <a href="https://74k1.sh/blog">Blog</a> -> https://74k1.sh/blog</samp><br>
-    <samp>.rw-r--r--  - 74k1 3 Aug 2025 gh_about
+    <samp>lrwxr--r--  - 74k1  1 Jan 2025 <a href="https://74k1.sh/">Website</a> -> https://74k1.sh/</samp><br>
+    <samp>lrwxr--r--  - 74k1  1 Jan 2025 <a href="https://74k1.sh/contact">Contact</a> -> https://74k1.sh/contact</samp><br>
+    <samp>lrwxr--r--  - 74k1  1 Jan 2025 <a href="https://74k1.sh/blog">Blog</a> -> https://74k1.sh/blog</samp><br>
+    <samp>.rw-r--r--  - 74k1 23 Feb 2026 gh_about
   </p>
 </details>
 <br>
@@ -41,12 +41,9 @@
   <summary><samp>cat gh_about</samp></summary>
   <br>
   <samp>
-  I'm a Junior System Engineer with a love for thoughtfully-crafted cli tools, striking graphics and NixOS.<br><br>
-  You'll often find me exploring new tools and tweaking configurations to make systems more useable.<br><br>
-  I'm fascinated by efficient system management, cyber security, automation and the ways we can make computers work better for us.<br><br>
-  The intersection of usability and technical elegance is where I thrive.<br><br>
-  I'm currently pursuing my federal Cyber Security Specialist certification while gaining hands-on experience through system administration and my self-hosted servers.<br><br>
-  Take a look to see what I've been working on.<br><br>
-  If you have any questions or want to know more about me, feel free to go through my website (linked above) and reach out.
+  I'm a System Engineer with a Cyber Security Specialist background, and I care way too much about native CLI tools that respect your RAM, striking graphics, and keeping your data where it belongs (locally, not in someone else's cloud). I self-host everything possible, mostly because I have trust issues.<br><br>
+  Most days you'll find me automating the boring stuff, tinkering with configurations, or chasing that perfect workflow where everything just works. I've gone fully NixOS, which means I've committed to the declarative lifestyle and now debug my entire OS with git commits.<br><br>
+  Good tools should disappear when you use them, and we should celebrate that more instead of only noticing when they fail. I obsess over infrastructure that just works.<br><br>
+  Take a look around. Want feedback on your rice or validation for your local-first obsession? My website's linked above. Reach out. I don't bite (most of the time).
   </samp>
 </details>
